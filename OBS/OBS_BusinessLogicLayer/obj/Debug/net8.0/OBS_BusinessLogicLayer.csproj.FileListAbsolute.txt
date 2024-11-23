@@ -1,0 +1,12 @@
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\bin\Debug\net8.0\OBS_BusinessLogicLayer.deps.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\bin\Debug\net8.0\OBS_BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\bin\Debug\net8.0\OBS_BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.AssemblyInfo.cs
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.sourcelink.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\refint\OBS_BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\OBS_BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\OBS_BusinessLogicLayer\obj\Debug\net8.0\ref\OBS_BusinessLogicLayer.dll

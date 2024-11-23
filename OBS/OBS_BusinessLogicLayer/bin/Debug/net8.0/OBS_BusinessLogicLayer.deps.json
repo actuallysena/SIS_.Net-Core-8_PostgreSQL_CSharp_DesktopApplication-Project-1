@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OBS_BusinessLogicLayer/1.0.0": {
+        "runtime": {
+          "OBS_BusinessLogicLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OBS_BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
