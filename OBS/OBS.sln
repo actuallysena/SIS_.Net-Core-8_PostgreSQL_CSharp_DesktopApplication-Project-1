@@ -5,6 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBS_PresentationLayer", "OBS_PresentationLayer\OBS_PresentationLayer.csproj", "{59908737-4E77-4401-B650-9B8A73FBF0D8}"
 	ProjectSection(ProjectDependencies) = postProject
+		{44D450F4-A6BB-4BE1-AE8B-61B87CEA7294} = {44D450F4-A6BB-4BE1-AE8B-61B87CEA7294}
 		{91715D1D-54B3-4EBF-BD15-CF4662DA3080} = {91715D1D-54B3-4EBF-BD15-CF4662DA3080}
 	EndProjectSection
 EndProject
