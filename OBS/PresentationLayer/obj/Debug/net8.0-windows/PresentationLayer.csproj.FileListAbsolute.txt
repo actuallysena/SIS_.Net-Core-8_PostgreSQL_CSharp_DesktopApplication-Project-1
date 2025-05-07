@@ -1,0 +1,16 @@
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Form1.resources
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll

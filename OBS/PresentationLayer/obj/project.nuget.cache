@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/XMar7f/mk=",
+  "success": true,
+  "projectFilePath": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sena\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\sena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

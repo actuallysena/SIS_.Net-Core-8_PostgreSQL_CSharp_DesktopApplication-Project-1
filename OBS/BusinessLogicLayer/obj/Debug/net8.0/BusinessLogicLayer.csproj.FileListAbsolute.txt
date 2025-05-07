@@ -1,0 +1,11 @@
+D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
