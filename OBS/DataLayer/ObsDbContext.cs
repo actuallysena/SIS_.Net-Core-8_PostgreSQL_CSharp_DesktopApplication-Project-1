@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using DataLayer.Models;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace DataLayer;
 

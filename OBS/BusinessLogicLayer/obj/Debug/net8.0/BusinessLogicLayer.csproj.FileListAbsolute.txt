@@ -9,3 +9,7 @@ D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
 D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
 D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
 D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date

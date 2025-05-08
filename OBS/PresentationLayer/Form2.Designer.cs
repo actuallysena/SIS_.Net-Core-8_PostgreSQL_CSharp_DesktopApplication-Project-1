@@ -1,4 +1,6 @@
-﻿namespace PresentationLayer
+﻿using BusinessLogicLayer;
+
+namespace PresentationLayer
 {
     partial class Form2
     {
@@ -50,7 +52,7 @@
             ogr_radioB.Location = new Point(8, 32);
             ogr_radioB.Margin = new Padding(4);
             ogr_radioB.Name = "ogr_radioB";
-            ogr_radioB.Size = new Size(95, 29);
+            ogr_radioB.Size = new Size(79, 24);
             ogr_radioB.TabIndex = 0;
             ogr_radioB.TabStop = true;
             ogr_radioB.Text = "Öğrenci";
@@ -62,7 +64,7 @@
             aka_radioB.Location = new Point(131, 32);
             aka_radioB.Margin = new Padding(4);
             aka_radioB.Name = "aka_radioB";
-            aka_radioB.Size = new Size(139, 29);
+            aka_radioB.Size = new Size(115, 24);
             aka_radioB.TabIndex = 1;
             aka_radioB.TabStop = true;
             aka_radioB.Text = "Akademisyen";
@@ -74,7 +76,7 @@
             per_radioB.Location = new Point(311, 32);
             per_radioB.Margin = new Padding(4);
             per_radioB.Name = "per_radioB";
-            per_radioB.Size = new Size(99, 29);
+            per_radioB.Size = new Size(82, 24);
             per_radioB.TabIndex = 2;
             per_radioB.TabStop = true;
             per_radioB.Text = "Personel";
@@ -86,7 +88,7 @@
             it_radioB.Location = new Point(445, 32);
             it_radioB.Margin = new Padding(4);
             it_radioB.Name = "it_radioB";
-            it_radioB.Size = new Size(113, 29);
+            it_radioB.Size = new Size(96, 24);
             it_radioB.TabIndex = 3;
             it_radioB.TabStop = true;
             it_radioB.Text = "Bilgi İşlem";
@@ -94,7 +96,7 @@
             // 
             // girisbtn
             // 
-            girisbtn.Location = new Point(106, 180);
+            girisbtn.Location = new Point(120, 182);
             girisbtn.Margin = new Padding(4);
             girisbtn.Name = "girisbtn";
             girisbtn.Size = new Size(118, 36);
@@ -108,7 +110,7 @@
             girisIdText.Location = new Point(144, 49);
             girisIdText.Margin = new Padding(4);
             girisIdText.Name = "girisIdText";
-            girisIdText.Size = new Size(155, 31);
+            girisIdText.Size = new Size(155, 27);
             girisIdText.TabIndex = 5;
             // 
             // sifreText
@@ -116,7 +118,7 @@
             sifreText.Location = new Point(144, 121);
             sifreText.Margin = new Padding(4);
             sifreText.Name = "sifreText";
-            sifreText.Size = new Size(155, 31);
+            sifreText.Size = new Size(155, 27);
             sifreText.TabIndex = 6;
             // 
             // label1
@@ -125,7 +127,7 @@
             label1.Location = new Point(66, 130);
             label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(47, 25);
+            label1.Size = new Size(39, 20);
             label1.TabIndex = 7;
             label1.Text = "Şifre";
             // 
@@ -135,7 +137,7 @@
             label2.Location = new Point(46, 52);
             label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(67, 25);
+            label2.Size = new Size(55, 20);
             label2.TabIndex = 8;
             label2.Text = "Giriş Id";
             // 
@@ -178,17 +180,17 @@
             label3.FlatStyle = FlatStyle.Popup;
             label3.Font = new Font("Segoe MDL2 Assets", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = SystemColors.HotTrack;
-            label3.Location = new Point(433, 55);
+            label3.Location = new Point(478, 42);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
             label3.Padding = new Padding(0, 0, 0, 12);
-            label3.Size = new Size(204, 48);
+            label3.Size = new Size(165, 41);
             label3.TabIndex = 11;
             label3.Text = "PORTAL GİRİŞ";
             // 
             // Form2
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 19F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1140, 514);
             Controls.Add(label3);

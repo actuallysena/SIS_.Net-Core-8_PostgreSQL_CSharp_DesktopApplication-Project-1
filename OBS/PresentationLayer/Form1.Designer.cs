@@ -1,4 +1,6 @@
-﻿namespace PresentationLayer
+﻿using BusinessLogicLayer;
+
+namespace PresentationLayer
 {
     partial class Form1
     {

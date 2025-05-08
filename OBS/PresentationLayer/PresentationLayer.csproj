@@ -10,7 +10,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.4" />
-    <PackageReference Include="Npgsql" Version="9.0.3" />
   </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj" />
+		<ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+	</ItemGroup>
 
 </Project>
