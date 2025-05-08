@@ -14,3 +14,10 @@ D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationL
 D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
 D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
 D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Form2.resources
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Npgsql.dll
+D:\PROJE_OBS\obs\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date

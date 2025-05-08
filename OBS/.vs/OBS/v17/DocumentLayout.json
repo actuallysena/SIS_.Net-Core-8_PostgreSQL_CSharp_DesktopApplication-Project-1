@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROJE_OBS\\obs\\",
+  "WorkspaceRootPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{715E6334-5EEB-4D7D-A6CE-B4078570A194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\proje_obs\\obs\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{715E6334-5EEB-4D7D-A6CE-B4078570A194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\presentationlayer\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\proje_obs\\obs\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\presentationlayer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\presentationlayer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\proje_obs\\obs\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|d:\\proje_obs\\obs\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|d:\\sena dosyalar\\project-1-studentinformationsystem\\obs\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|d:\\proje_obs\\obs\\datalayer\\obsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\obsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|d:\\proje_obs\\obs\\datalayer\\models\\akademisyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BCA065-8B54-4E4A-A84E-37745C087656}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\akademisyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{715E6334-5EEB-4D7D-A6CE-B4078570A194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\proje_obs\\obs\\businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{715E6334-5EEB-4D7D-A6CE-B4078570A194}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|d:\\proje_obs\\obs\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56252CD2-D037-4F8C-B3F8-0BFE945626E6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,114 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Program.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Program.cs",
-              "RelativeToolTip": "PresentationLayer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form2.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Form2.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form2.cs",
+              "RelativeToolTip": "PresentationLayer\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:37:22.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Akademisyen.cs",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\DataLayer\\Models\\Akademisyen.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Models\\Akademisyen.cs",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\DataLayer\\Models\\Akademisyen.cs",
-              "RelativeToolTip": "DataLayer\\Models\\Akademisyen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:32:08.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ObsDbContext.cs",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\DataLayer\\ObsDbContext.cs",
-              "RelativeDocumentMoniker": "DataLayer\\ObsDbContext.cs",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\DataLayer\\ObsDbContext.cs",
-              "RelativeToolTip": "DataLayer\\ObsDbContext.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:31:28.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BusinessLogicLayer",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T17:52:02.994Z",
+              "WhenOpened": "2025-05-08T18:32:12.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PresentationLayer",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
-              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
-              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T17:52:01.322Z",
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form2.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Form2.cs",
+              "ToolTip": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\PROJE_OBS\\obs\\PresentationLayer\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:32:00.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Form2.Designer.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form2.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:29:32.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataLayer",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj",
-              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj",
-              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T17:51:42.503Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\PROJE_OBS\\obs\\PresentationLayer\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:28:59.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\Class1.cs",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\Class1.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:51:40.326Z",
-              "EditorCaption": ""
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T18:27:48.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Form1.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Form1.cs",
-              "ToolTip": "D:\\PROJE_OBS\\obs\\PresentationLayer\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "PresentationLayer\\Form1.cs [Tasar\u0131m]",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:42:06.232Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-08T18:26:38.896Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T20:58:04.349Z"
             }
           ]
         }
