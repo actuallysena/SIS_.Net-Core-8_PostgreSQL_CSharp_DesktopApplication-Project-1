@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "riPApzjhQ5U=",
+  "dgSpecHash": "BZQ55Id8cjE=",
   "success": true,
-  "projectFilePath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj",
+  "projectFilePath": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sena\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
     "C:\\Users\\sena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",

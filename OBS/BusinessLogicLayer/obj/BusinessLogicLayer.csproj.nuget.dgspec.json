@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
+    "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\obj\\",
+        "outputPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
