@@ -2,7 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using DataLayer;
 using DataLayer.Interfaces;
+using DataLayer.Repositories;
 using BusinessLogicLayer.Services;
+using BusinessLogicLayer.Interfaces; 
 
 namespace Infrastructure
 {
@@ -13,8 +15,12 @@ namespace Infrastructure
             services.AddDbContext<ObsDbContext>(options =>
                 options.UseNpgsql(connectionString));
 
+
+            // Generic Repository içinn
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
-            services.AddScoped<LoginService>();
+
+            // Service için kayit
+            services.AddScoped<ILoginService, LoginService>();
 
             return services;
         }

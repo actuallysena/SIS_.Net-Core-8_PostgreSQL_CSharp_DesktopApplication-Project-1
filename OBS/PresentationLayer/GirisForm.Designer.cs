@@ -2,7 +2,7 @@
 
 namespace PresentationLayer
 {
-    partial class Form2
+    partial class GirisForm
     {
         /// <summary>
         /// Required designer variable.

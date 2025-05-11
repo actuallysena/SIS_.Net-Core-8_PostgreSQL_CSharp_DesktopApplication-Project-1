@@ -1,25 +1,33 @@
-using System;
-using Microsoft.Extensions.DependencyInjection;
+﻿using System;
 using Microsoft.EntityFrameworkCore;
 using DataLayer;
 using Infrastructure;
 using BusinessLogicLayer.Services;
+using BusinessLogicLayer.Interfaces;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace PresentationLayer
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
+        public static IServiceProvider serviceProvider = null!; //.NET 6 ÜZERİ SÜRÜMLERDE REFERANS TİPLER NULL OLABİLDİĞİNDEN OLAMAYANI BEİRTMEK GEREKLİYORMUŞ.
+
         [STAThread]
         static void Main()
         {
-          
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
+            var services = new ServiceCollection();
+
+            // Connection string: (CONFİG DOSYASI YAPABİLİRİZ)
+            string connectionString = "Host=localhost;Database=obs_db;Username=postgres;Password=123";
+
+            //DI servislerini dahil ediyoruz Infrastructure üzerinden..
+            services.AddApplicationServices(connectionString);
+            // ServiceProvider nesnesi global oldu
+            serviceProvider = services.BuildServiceProvider();
+
+            // WinForms başlangıcı
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form2());
+            Application.Run(new GirisForm());
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj": {}
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJE_OBS\\obs\\DataLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,6 +121,10 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -152,14 +156,14 @@
         }
       }
     },
-    "D:\\PROJE_OBS\\obs\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJE_OBS\\obs\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\PROJE_OBS\\obs\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJE_OBS\\obs\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,11 +184,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\PROJE_OBS\\obs\\DataLayer\\DataLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -229,14 +233,14 @@
         }
       }
     },
-    "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj": {
+    "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
+        "projectUniqueName": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "D:\\PROJE_OBS\\obs\\PresentationLayer\\PresentationLayer.csproj",
+        "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\sena\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJE_OBS\\obs\\PresentationLayer\\obj\\",
+        "outputPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -257,11 +261,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\PROJE_OBS\\obs\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "D:\\PROJE_OBS\\obs\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\PROJE_OBS\\obs\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Sena Dosyalar\\Project-1-StudentInformationSystem\\OBS\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

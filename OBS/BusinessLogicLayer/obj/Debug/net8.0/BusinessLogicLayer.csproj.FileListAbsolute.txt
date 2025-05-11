@@ -13,3 +13,19 @@ D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
 D:\PROJE_OBS\obs\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
 D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
 D:\PROJE_OBS\obs\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

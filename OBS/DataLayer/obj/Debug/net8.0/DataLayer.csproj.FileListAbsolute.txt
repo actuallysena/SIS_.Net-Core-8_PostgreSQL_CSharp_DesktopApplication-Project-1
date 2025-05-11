@@ -12,3 +12,18 @@ D:\PROJE_OBS\obs\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
 D:\PROJE_OBS\obs\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 D:\PROJE_OBS\obs\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
 D:\PROJE_OBS\obs\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

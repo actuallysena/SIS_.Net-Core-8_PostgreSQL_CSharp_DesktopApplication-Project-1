@@ -38,3 +38,44 @@ D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Infrastructure.dll
 D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\BusinessLogicLayer.pdb
 D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\Infrastructure.pdb
 D:\PROJE_OBS\obs\PresentationLayer\bin\Debug\net8.0-windows\DataLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\BusinessLogicLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\DataLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Infrastructure.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\BusinessLogicLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\Infrastructure.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\bin\Debug\net8.0-windows\DataLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GirisForm.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.OgrenciForm.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.sourcelink.json
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll

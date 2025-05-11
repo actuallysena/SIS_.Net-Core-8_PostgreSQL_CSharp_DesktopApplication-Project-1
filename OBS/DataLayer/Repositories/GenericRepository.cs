@@ -1,18 +1,20 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DataLayer.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using DataLayer; // ObsDbContexti tanimlamistik
 
 
-namespace DataLayer.Interfaces
+namespace DataLayer.Repositories
 {
     public class GenericRepository<T> : IRepository<T> where T : class
     {
-        private readonly DbContext _context;
+        private readonly ObsDbContext _context;
         private readonly DbSet<T> _dbSet;
 
-        public GenericRepository(DbContext context)
+        public GenericRepository(ObsDbContext context)
         {
             _context = context;
             _dbSet = context.Set<T>();

@@ -2,7 +2,7 @@
 
 namespace PresentationLayer
 {
-    partial class Form1
+    partial class OgrenciForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,7 +30,7 @@ namespace PresentationLayer
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(OgrenciForm));
             label1 = new Label();
             pictureBox2 = new PictureBox();
             asd = new PictureBox();
