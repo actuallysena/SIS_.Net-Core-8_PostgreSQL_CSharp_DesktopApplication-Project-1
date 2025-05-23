@@ -6,7 +6,7 @@ namespace PresentationLayer
         {
             InitializeComponent();
         }
-        private void Form1_Load(object sender, EventArgs e)
+        private void OgrenciForm_Load(object sender, EventArgs e)
         {
             // Sabit boyut ve boyutlandýrmayý engelleme
             this.Size = new System.Drawing.Size(1000, 500);

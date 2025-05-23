@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
-
 
 namespace DataLayer.Models;
 
@@ -34,9 +31,7 @@ public partial class Ogrenci
 
     public int FkBolmm { get; set; }
 
-    public virtual ICollection<Devamsizlik> Devamsizliks { get; set; } = new List<Devamsizlik>();
-
-    public virtual ICollection<Notlar> Notlars { get; set; } = new List<Notlar>();
+    public virtual ICollection<OgrenciDer> OgrenciDers { get; set; } = new List<OgrenciDer>();
 
     public virtual Sinif Sinif { get; set; } = null!;
 }

@@ -79,3 +79,9 @@ D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\De
 D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
 D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
 D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AkademisyenForm.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.DersEkleUserControl.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.NotGirmeUserControl.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.OgrenciListeleUserControl.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.YonetimForm.resources
+D:\Sena Dosyalar\Project-1-StudentInformationSystem\OBS\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Properties.Resources.resources

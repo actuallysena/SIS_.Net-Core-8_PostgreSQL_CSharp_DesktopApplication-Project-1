@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using DataLayer.Models;
 using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
 
 namespace DataLayer;
 
@@ -23,13 +22,11 @@ public partial class ObsDbContext : DbContext
 
     public virtual DbSet<Dersler> Derslers { get; set; }
 
-    public virtual DbSet<Devamsizlik> Devamsizliks { get; set; }
-
     public virtual DbSet<Fakulteler> Fakultelers { get; set; }
 
-    public virtual DbSet<Notlar> Notlars { get; set; }
-
     public virtual DbSet<Ogrenci> Ogrencis { get; set; }
+
+    public virtual DbSet<OgrenciDer> OgrenciDers { get; set; }
 
     public virtual DbSet<Personel> Personels { get; set; }
 
@@ -133,28 +130,6 @@ public partial class ObsDbContext : DbContext
                 .HasConstraintName("dersler_fk_snf_fk_bolm_fkey");
         });
 
-        modelBuilder.Entity<Devamsizlik>(entity =>
-        {
-            entity.HasKey(e => e.DevamsizlikId).HasName("devamsizlik_pkey");
-
-            entity.ToTable("devamsizlik");
-
-            entity.Property(e => e.DevamsizlikId).HasColumnName("devamsizlik_id");
-            entity.Property(e => e.FkDersId).HasColumnName("fk_ders_id");
-            entity.Property(e => e.FkOgrNo).HasColumnName("fk_ogr_no");
-            entity.Property(e => e.Tarih).HasColumnName("tarih");
-
-            entity.HasOne(d => d.FkDers).WithMany(p => p.Devamsizliks)
-                .HasForeignKey(d => d.FkDersId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("devamsizlik_fk_ders_id_fkey");
-
-            entity.HasOne(d => d.FkOgrNoNavigation).WithMany(p => p.Devamsizliks)
-                .HasForeignKey(d => d.FkOgrNo)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("devamsizlik_fk_ogr_no_fkey");
-        });
-
         modelBuilder.Entity<Fakulteler>(entity =>
         {
             entity.HasKey(e => e.FakId).HasName("fakulteler_pkey");
@@ -176,33 +151,6 @@ public partial class ObsDbContext : DbContext
                 .HasForeignKey(d => d.FkUniId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("fakulteler_fk_uni_id_fkey");
-        });
-
-        modelBuilder.Entity<Notlar>(entity =>
-        {
-            entity.HasKey(e => e.NotId).HasName("notlar_pkey");
-
-            entity.ToTable("notlar");
-
-            entity.Property(e => e.NotId).HasColumnName("not_id");
-            entity.Property(e => e.FkDerssId).HasColumnName("fk_derss_id");
-            entity.Property(e => e.FkOgrrNo).HasColumnName("fk_ogrr_no");
-            entity.Property(e => e.NotTur)
-                .HasMaxLength(10)
-                .HasColumnName("not_tur");
-            entity.Property(e => e.Puan)
-                .HasPrecision(3, 1)
-                .HasColumnName("puan");
-
-            entity.HasOne(d => d.FkDerss).WithMany(p => p.Notlars)
-                .HasForeignKey(d => d.FkDerssId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("notlar_fk_derss_id_fkey");
-
-            entity.HasOne(d => d.FkOgrrNoNavigation).WithMany(p => p.Notlars)
-                .HasForeignKey(d => d.FkOgrrNo)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("notlar_fk_ogrr_no_fkey");
         });
 
         modelBuilder.Entity<Ogrenci>(entity =>
@@ -251,6 +199,51 @@ public partial class ObsDbContext : DbContext
                 .HasForeignKey(d => new { d.FkSnff, d.FkBolmm })
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("ogrenci_fk_snff_fk_bolmm_fkey");
+        });
+
+        modelBuilder.Entity<OgrenciDer>(entity =>
+        {
+            entity.HasKey(e => new { e.OgrNo, e.DersId, e.Donemkodu }).HasName("ogrenci_ders_pkey");
+
+            entity.ToTable("ogrenci_ders");
+
+            entity.Property(e => e.OgrNo).HasColumnName("ogr_no");
+            entity.Property(e => e.DersId).HasColumnName("ders_id");
+            entity.Property(e => e.Donemkodu)
+                .HasMaxLength(20)
+                .HasColumnName("donemkodu");
+            entity.Property(e => e.Butunlemenotu)
+                .HasPrecision(5, 2)
+                .HasColumnName("butunlemenotu");
+            entity.Property(e => e.Devamsizlik).HasColumnName("devamsizlik");
+            entity.Property(e => e.Devamzorunlulugu)
+                .HasDefaultValue(true)
+                .HasColumnName("devamzorunlulugu");
+            entity.Property(e => e.Finalnotu)
+                .HasPrecision(5, 2)
+                .HasColumnName("finalnotu");
+            entity.Property(e => e.Gectimi)
+                .HasDefaultValue(false)
+                .HasColumnName("gectimi");
+            entity.Property(e => e.Harfnotu)
+                .HasMaxLength(2)
+                .HasColumnName("harfnotu");
+            entity.Property(e => e.Ortalama)
+                .HasPrecision(5, 2)
+                .HasColumnName("ortalama");
+            entity.Property(e => e.Vizenotu)
+                .HasPrecision(5, 2)
+                .HasColumnName("vizenotu");
+
+            entity.HasOne(d => d.Ders).WithMany(p => p.OgrenciDers)
+                .HasForeignKey(d => d.DersId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("ogrenci_ders_ders_id_fkey");
+
+            entity.HasOne(d => d.OgrNoNavigation).WithMany(p => p.OgrenciDers)
+                .HasForeignKey(d => d.OgrNo)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("ogrenci_ders_ogr_no_fkey");
         });
 
         modelBuilder.Entity<Personel>(entity =>

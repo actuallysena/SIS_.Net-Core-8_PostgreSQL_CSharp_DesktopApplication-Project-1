@@ -1,5 +1,4 @@
-﻿using BusinessLogicLayer;
-
+﻿
 namespace PresentationLayer
 {
     partial class OgrenciForm
@@ -129,7 +128,7 @@ namespace PresentationLayer
             // 
             dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(176, 197);
+            dataGridView1.Location = new Point(174, 246);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(631, 272);
@@ -394,9 +393,9 @@ namespace PresentationLayer
             Controls.Add(pictureBox2);
             Controls.Add(label2);
             Controls.Add(dataGridView1);
-            Name = "Form1";
+            Name = "OgrenciForm";
             Text = "Öğrenci Ekranı";
-            Load += Form1_Load;
+            Load += OgrenciForm_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)asd).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

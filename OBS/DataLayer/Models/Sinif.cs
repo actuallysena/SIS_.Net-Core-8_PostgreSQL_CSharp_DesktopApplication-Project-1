@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
-
 
 namespace DataLayer.Models;
 
